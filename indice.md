@@ -9,3 +9,5 @@ Acá comentamos y sugerimos cambios.  Los cambios son situaciones normales en un
 ## Prueba Errores
 
 Cuando los cambios se ejecutan al mismo tiempo.
+
+![alt text](hiena-2.jpg "Imagen de hiena")
